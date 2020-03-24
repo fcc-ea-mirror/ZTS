@@ -40,7 +40,7 @@ JSON manifest which describes each exhibit submitted by Zhejiang Dahua Technolog
 
 ## Device List
 ## ZTSDH-HWS
-**Radar Speed Measuring System**
+**Grant Notes:** Radar Speed Measuring System
 
 | Description | Type | Ext | Size | Submitted | Available |
 | ----------- | ---- | --- | ---- | --------- | --------- |
