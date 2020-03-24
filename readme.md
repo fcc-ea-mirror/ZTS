@@ -39,13 +39,12 @@ JSON manifest which describes each exhibit submitted by Zhejiang Dahua Technolog
 - Grant Notes
 
 ## Device List
-
-    ## ZTSDH-HWS
+## ZTSDH-HWS
 Radar Speed Measuring System
 
 | Description | Type | Ext | Size | Submitted | Available |
 | ----------- | ---- | --- | ---- | --------- | --------- |
-        | [FCC Part 90 Test Report](ZTSDH-HWS/8b43814c1a9f09a9ed1ad3881cca72d5/1543197.pdf) | test_report | pdf | 358972 | 2011-09-16 | 2011-09-16 |
+| [FCC Part 90 Test Report](ZTSDH-HWS/8b43814c1a9f09a9ed1ad3881cca72d5/1543197.pdf) | test_report | pdf | 358972 | 2011-09-16 | 2011-09-16 |
 | [Test Setup Photos](ZTSDH-HWS/8b43814c1a9f09a9ed1ad3881cca72d5/1543196.pdf) | test_setup_photos | pdf | 277839 | 2011-09-16 | 2011-09-16 |
 | [User's Manual](ZTSDH-HWS/8b43814c1a9f09a9ed1ad3881cca72d5/1543198.pdf) | users_manual | pdf | 3479068 | 2011-09-16 | 2011-09-16 |
 | [FCC Agent Authorization Letter](ZTSDH-HWS/8b43814c1a9f09a9ed1ad3881cca72d5/1543166.pdf) | cover_letter | pdf | 492261 | 2011-09-16 | 2011-09-16 |
