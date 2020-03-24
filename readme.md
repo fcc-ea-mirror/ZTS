@@ -7,7 +7,7 @@
 
 This repository contains the exhibit documents submitted by Zhejiang Dahua Technology Co. Ltd. to (and published by) the FCC as part of the device certification process.
 
-These exhibits can include **internal photos**, **external photos**, **RF test reports**, **block diagrams**, **operational descriptions**, **user manuals**, and various **correspondence**.
+These exhibits can include **internal photos**, **external photos**, **RF test reports**, **block diagrams**, **operational descriptions**, **schematics**, **user manuals**, and various **correspondence**.
 
 The top-level directories are sliced by the FCC ID of each device.
 
